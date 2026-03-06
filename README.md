@@ -43,7 +43,7 @@ Random Forest performed best with the highest accuracy.
 
 Clone the repository
 
-git clone https://github.com/yourusername/bank-customer-classification-ml.git
+git clone https://github.com/Atharva-k20/bank-customer-classification-ml.git
 
 Install dependencies
 
